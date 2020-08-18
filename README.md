@@ -21,7 +21,7 @@ date posted | lecture name | written notes | [video lecture](https://www.youtube
 
 date posted | link | due |
 --- | --- | --- 
-8-20 | [QP 1]() | 8-27 
+8-20 | [QP 1](qp/qp1.pdf) | 8-27 
 
 ## suggested problems
 
