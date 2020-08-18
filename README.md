@@ -21,7 +21,7 @@ date posted | lecture name | written notes | [video lecture](https://www.youtube
 
 date posted | link | due |
 --- | --- | --- 
-1-23 | [QP 1]() | 8-27 
+8-20 | [QP 1]() | 8-27 
 
 ## suggested problems
 
@@ -29,7 +29,7 @@ see the blackboard site for solutions
 
 date posted | name |  reading| assignment |
 --- | --- | --- |---
-1-23 | SP 1 | Leemis 1.3 | ch1 63, 64, 69, 70, 73 |
+8-20 | SP 1 | Leemis 1.3 | ch1 63, 64, 69, 70, 73 |
 --- | --- | --- | --- |---
 
 
