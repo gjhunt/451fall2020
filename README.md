@@ -13,7 +13,7 @@
 
 date posted | lecture name | written notes | [video lecture](https://www.youtube.com/playlist?list=PL8bivwGDerXoGLimP2BkNzXXDQNymX44y) | [Dr. Leemis's Videos](http://www.math.wm.edu/~leemis/videos/probability/) | 
 ---|---|---|---|---
-1-23 | basic set notation |  | ||
+8-20 | basic set notation |  | ||
 ---|---|---|---|---
 
 
