@@ -4,13 +4,13 @@ Information for the course can be found on blackboard or on github at gjhunt.git
 
 #Lectures
 
-The lectures are remote and asynchronous. Each Monday I will post two lectures for that week which will each be 80 minutes long. They will be posted to youtube at https://www.youtube.com/playlist?list=PL8bivwGDerXoGLimP2BkNzXXDQNymX44y along with individual links posted on the github page. I will also post a .pdf of the lecture notes from that week along with the videos. 
+The lectures are remote and asynchronous. Each Monday I will post two lectures for that week which will each be 80 minutes long. They will be posted to [youtube](https://www.youtube.com/playlist?list=PL8bivwGDerXoGLimP2BkNzXXDQNymX44y) along with individual links posted on the github page. I will also post a .pdf of the lecture notes from that week along with the videos. 
 
-Additionally, I will be posting links to Dr. Leemis's 451 Lecture Videos: http://www.math.wm.edu/~leemis/videos/ttc/ They are more in-depth than my lecture and extremely high-quality. 
+Additionally, I will be posting links to [Dr. Leemis's 451 Lecture Videos](http://www.math.wm.edu/~leemis/videos/ttc/). They are more in-depth than my lecture and extremely high-quality. 
 
 #Office Hours
 
-Office hours will be held on zoom at https://cwm.zoom.us/j/7868499218, times will be Tuesdays 3:30-5 pm EST and Wedsnesdays 9-1:30 am EST. Additionally, I am happy to meet by appointment, send me an email gjhunt@wm.edu
+Office hours will be held on zoom, times will be Tuesdays 3:30-5 pm EST and Wedsnesdays 9-1:30 am EST. Additionally, I am happy to meet by appointment, send me an email.
 
 #Weekly Quiz Problems (QPs)
 
