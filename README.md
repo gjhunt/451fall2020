@@ -18,6 +18,9 @@ date posted | lecture name | written notes | [video lecture](https://www.youtube
 8-25 | axiomatic probability | [lecture 2](lns/lec2.pdf) | [video lec 2](https://youtu.be/iFYm5HjicjM) | 2.1, 2.2 |
 8-27 | basic theorems | [lecture 3](lns/lec3.pdf) | [video lec 3](https://youtu.be/5_0NSyIAfo0) | 2.1, 2.2 |
 ---|---|---|---|---
+9-1 | ordered counting | [lecture 4](lns/lec4.pdf) | [video lec 4](https://youtu.be/XxdEyJmVJPU) | 1.2, 2.3 |
+9-3 | unordered counting | [lecture 5](lns/lec5.pdf) | [video lec 5](https://youtu.be/Fm7k6B8z4Gg) | 1.2, 2.3 |
+---|---|---|---|---
 
 
 ## quiz problems
@@ -35,5 +38,6 @@ date posted | name |  reading| assignment |
 --- | --- | --- |---
 8-20 | SP 1 | Leemis 1.3 | ch1 63, 64, 69, 70, 73 |
 8-27 | SP 2 | Leemis 2.1, 2.2 | ch2 2-7, 9-11, 13 |
+9-3 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2 30, 34, 36, 38, 48, 50, 52, 56, 64, 77|
 
 
