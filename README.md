@@ -46,6 +46,6 @@ date posted | name |  reading| assignment | corresp lec
 8-20 | SP 1 | Leemis 1.3 | ch1 63, 64, 69, 70, 73 | 1
 8-27 | SP 2 | Leemis 2.1, 2.2 | ch2 2-7, 9-11, 13 | 2-3
 9-3 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2 30, 34, 36, 38, 48, 50, 52, 56, 64, 77| 4-5
-9-10 | SP 4 | Leemis 2.4, 2.5, 2.6 | ch2 problems 73, 75, 76, 80, 86, 94, 102, 134, 142, 146 | 4-5
+9-10 | SP 4 | Leemis 2.4, 2.5, 2.6 | ch2 problems 73, 75, 76, 80, 86, 94, 102, 134, 142, 146 | 6-7
 
 
