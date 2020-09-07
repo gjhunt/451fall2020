@@ -21,11 +21,17 @@ date posted | lecture name | written notes | [video lecture](https://www.youtube
 9-1 | ordered counting | [lecture 4](lns/lec4.pdf) | [video lec 4](https://youtu.be/XxdEyJmVJPU) | 1.2, 2.3 |
 9-3 | unordered counting | [lecture 5](lns/lec5.pdf) | [video lec 5](https://youtu.be/Fm7k6B8z4Gg) | 1.2, 2.3 |
 ---|---|---|---|---
+9-1 | ordered counting | [lecture 4](lns/lec4.pdf) | [video lec 4](https://youtu.be/XxdEyJmVJPU) | 1.2, 2.3 |
+9-3 | unordered counting | [lecture 5](lns/lec5.pdf) | [video lec 5](https://youtu.be/Fm7k6B8z4Gg) | 1.2, 2.3 |
+---|---|---|---|---
+9-8 | conditional probability | [lecture 6](lns/lec6.pdf) | [video lec 6](https://youtu.be/Bfmm6aN_Gxk) | 2.4,2.5 |
+9-10 | independence | [lecture 7](lns/lec7.pdf) | [video lec 7](https://youtu.be/8vwDgW9TS-8) | 2.6 |
+---|---|---|---|---
 
 
 ## quiz problems
 
-date posted | link | due |
+date posted | link | due 
 --- | --- | --- 
 8-20 | [QP 1](qp/qp1.pdf) | 8-27
 8-27 | [QP 2](qp/qp2.pdf) | 9-3
@@ -35,10 +41,11 @@ date posted | link | due |
 
 see the blackboard site for solutions
 
-date posted | name |  reading| assignment |
+date posted | name |  reading| assignment | corresp lec
 --- | --- | --- |---
-8-20 | SP 1 | Leemis 1.3 | ch1 63, 64, 69, 70, 73 |
-8-27 | SP 2 | Leemis 2.1, 2.2 | ch2 2-7, 9-11, 13 |
-9-3 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2 30, 34, 36, 38, 48, 50, 52, 56, 64, 77|
+8-20 | SP 1 | Leemis 1.3 | ch1 63, 64, 69, 70, 73 | 1
+8-27 | SP 2 | Leemis 2.1, 2.2 | ch2 2-7, 9-11, 13 | 2-3
+9-3 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2 30, 34, 36, 38, 48, 50, 52, 56, 64, 77| 4-5
+9-10 | SP 4 | Leemis 2.4, 2.5, 2.6 | ch2 problems 73, 75, 76, 80, 86, 94, 102, 134, 142, 146 | 4-5
 
 
