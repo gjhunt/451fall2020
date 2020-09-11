@@ -36,6 +36,7 @@ date posted | link | due
 8-20 | [QP 1](qp/qp1.pdf) | 8-27
 8-27 | [QP 2](qp/qp2.pdf) | 9-3
 9-3 | [QP 3](qp/qp3.pdf) | 9-10
+9-10 | [QP 4](qp/qp4.pdf) | 9-17
 
 ## suggested problems
 
