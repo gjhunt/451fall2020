@@ -27,6 +27,9 @@ lecture number | date posted | lecture name | written notes | [video lecture](ht
 8|9-15 | random variables and CDFs | [lecture 8](lns/lec8.pdf) | [video lec 8](https://youtu.be/49496Ozk2qo) | 3.1 - 3.3 |
 9|9-17 | PMFs and PDFs | [lecture 9](lns/lec9.pdf) | [video lec 9](https://youtu.be/6s6-eQQqwlw) | 3.1 - 3.3 |
 --- | ---|---|---|---|---
+10|9-22 | more PMFs and PDFs | [lecture 10](lns/lec10.pdf) | [video lec 10](https://youtu.be/yLHu-Z7qMSw) | 3.1 - 3.3 |
+11|9-24 | expectation and variance | [lecture 11](lns/lec11.pdf) | [video lec 11](https://youtu.be/HpPvCJpZjtA) | 3.4 (not MGFs)|
+--- | ---|---|---|---|---
 
 
 ## quiz problems
@@ -50,5 +53,6 @@ date posted | name |  reading| assignment | corresponding lectures
 9-3 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2 30, 34, 36, 38, 48, 50, 52, 56, 64, 77| 4-5
 9-10 | SP 4 | Leemis 2.4, 2.5, 2.6 | ch2 73, 75, 76, 80, 86, 94, 102, 134, 142, 146 | 6-7
 9-17 | SP 5 | Leemis 3.1-3.3 | ch3 4, 14, 22, 24, 25, 28, 34, 36, 48 | 8-9
+9-24 | SP 6 | Leemis 3.1-3.4 | ch3 18,19,54, 74, 78, 105, 117, 133 | 10-11
 
 
