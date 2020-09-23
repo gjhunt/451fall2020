@@ -10,7 +10,7 @@ Additionally, I will be posting links to [Dr. Leemis's 451 Lecture Videos](http:
 
 #Office Hours
 
-Office hours will be held on zoom, times will be Tuesdays 3:30-5 pm EST and Wedsnesdays 9-1:30 am EST. Additionally, I am happy to meet by appointment, send me an email.
+Office hours will be held on zoom, times will be Tuesdays 3:30-5 pm EST and Wedsnesdays 9-10:30 am EST. Additionally, I am happy to meet by appointment, send me an email.
 
 #Weekly Quiz Problems (QPs)
 
