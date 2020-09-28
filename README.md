@@ -30,6 +30,9 @@ lecture number | date posted | lecture name | written notes | [video lecture](ht
 10|9-22 | more PMFs and PDFs | [lecture 10](lns/lec10.pdf) | [video lec 10](https://youtu.be/yLHu-Z7qMSw) | 3.1 - 3.3 |
 11|9-24 | expectation and variance | [lecture 11](lns/lec11.pdf) | [video lec 11](https://youtu.be/HpPvCJpZjtA) | 3.4 (not MGFs)|
 --- | ---|---|---|---|---
+12|9-29 | moments and mgfs | [lecture 12](lns/lec12.pdf) | [video lec 12](https://youtu.be/LNTt0wyshBk) | 3.4 (moments and MGFs) |
+13|10-01 | common distributions 1 | [lecture 13](lns/lec13.pdf) | [video lec 13](https://youtu.be/FKHA_zzXKns) | 4.1 - 4.2, 5.1, 5.2, 5.4|
+--- | ---|---|---|---|---
 
 
 ## quiz problems
@@ -49,11 +52,12 @@ see the blackboard site for solutions
 
 date posted | name |  reading| assignment | corresponding lectures
 --- | --- | --- |--- | ---
-8-20 | SP 1 | Leemis 1.3 | ch1 63, 64, 69, 70, 73 | 1
-8-27 | SP 2 | Leemis 2.1, 2.2 | ch2 2-7, 9-11, 13 | 2-3
-9-3 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2 30, 34, 36, 38, 48, 50, 52, 56, 64, 77| 4-5
-9-10 | SP 4 | Leemis 2.4, 2.5, 2.6 | ch2 73, 75, 76, 80, 86, 94, 102, 134, 142, 146 | 6-7
-9-17 | SP 5 | Leemis 3.1-3.3 | ch3 4, 14, 22, 24, 25, 28, 34, 36, 48 | 8-9
-9-24 | SP 6 | Leemis 3.1-3.4 | ch3 18,19,54, 74, 78, 105, 117, 133 | 10-11
+8-20 | SP 1 | Leemis 1.3 | ch1: 63, 64, 69, 70, 73 | 1
+8-27 | SP 2 | Leemis 2.1, 2.2 | ch2: 2-7, 9-11, 13 | 2-3
+9-3 | SP 3 | Leemis 2.1, 2.2, 2.3 | ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77| 4-5
+9-10 | SP 4 | Leemis 2.4, 2.5, 2.6 | ch2: 73, 75, 76, 80, 86, 94, 102, 134, 142, 146 | 6-7
+9-17 | SP 5 | Leemis 3.1-3.3 | ch3: 4, 14, 22, 24, 25, 28, 34, 36, 48 | 8-9
+9-24 | SP 6 | Leemis 3.1-3.4 | ch3: 18,19,54, 74, 78, 105, 117, 133 | 10-11
+9-24 | SP 7 | Leemis 3.4, 4.1 - 4.3, 5.1-5.4 | ch3: 71, 81, 135, ch 4: 28, 39, 48, 54, ch 5: 1, 5, 7, 21, 43, 69| 12-14
 
 
