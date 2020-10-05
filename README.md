@@ -33,6 +33,7 @@ lecture number | date posted | lecture name | written notes | [video lecture](ht
 12|9-29 | moments and mgfs | [lecture 12](lns/lec12.pdf) | [video lec 12](https://youtu.be/LNTt0wyshBk) | 3.4 (moments and MGFs) |
 13|10-01 | common distributions 1 | [lecture 13](lns/lec13.pdf) | [video lec 13](https://youtu.be/FKHA_zzXKns) | 4.1 - 4.2, 5.1, 5.2, 5.4|
 --- | ---|---|---|---|---
+14|10-06 | common distributions 2 | [lecture 14](lns/lec14.pdf) | [video lec 14](https://youtu.be/RnQN3XzoMs8) | 4.3, 4.5, 5.3, 5.5 (Beta)|
 
 
 ## quiz problems
