@@ -34,6 +34,9 @@ lecture number | date posted | lecture name | written notes | [video lecture](ht
 13|10-01 | common distributions 1 | [lecture 13](lns/lec13.pdf) | [video lec 13](https://youtu.be/FKHA_zzXKns) | 4.1 - 4.2, 5.1, 5.2, 5.4|
 --- | ---|---|---|---|---
 14|10-06 | common distributions 2 | [lecture 14](lns/lec14.pdf) | [video lec 14](https://youtu.be/RnQN3XzoMs8) | 4.3, 4.5, 5.3, 5.5 (Beta)|
+--- | ---|---|---|---|---
+15|10-13 | transformations | [lecture 15](lns/lec15.pdf) | [video lec 15](https://youtu.be/LL7DZeIZk1g) | 7, 7.1, 7.2 (first four, univariate only) |
+16|10-15 | bivariate random variables | [lecture 16](lns/lec16.pdf) | [video lec 16](https://youtu.be/pEBghuHXKC8) | 6, 6.1 (up to conditional dists) |
 
 
 ## quiz problems
@@ -60,5 +63,6 @@ date posted | name |  reading| assignment | corresponding lectures
 9-17 | SP 5 | Leemis 3.1-3.3 | ch3: 4, 14, 22, 24, 25, 28, 34, 36, 48 | 8-9
 9-24 | SP 6 | Leemis 3.1-3.4 | ch3: 18,19,54, 74, 78, 105, 117, 133 | 10-11
 9-24 | SP 7 | Leemis 3.4, 4.1 - 4.3, 5.1-5.4 | ch3: 71, 81, 135, ch 4: 28, 39, 48, 54, ch 5: 1, 5, 7, 21, 43, 69| 12-14
+10-15 | SP 8 | Leemis 7,7.1,7.2 (univariate case only), Leemis 6,6.1 (up to conditional dists) | Leemis ch 7: 2,9,13,21,40,55,57,58,60,63, Leemis ch 6: 4, 5, 22, 24, 32, 35  | 15-16 
 
 
