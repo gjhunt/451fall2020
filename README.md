@@ -53,6 +53,7 @@ date posted | link | due | corresponding lectures
 9-17 | [QP 5](qp/qp5.pdf) | 9-24| 8-9
 9-24 | [QP 6](qp/qp6.pdf) | 10-1| 10-11
 10-15 | [QP 7](qp/qp7.pdf) | 10-22 | 15-16
+10-23 | [QP 8](qp/qp8.pdf) | 10-29 | 17-18
 
 ## suggested problems
 
