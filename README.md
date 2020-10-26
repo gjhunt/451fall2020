@@ -40,6 +40,9 @@ lecture number | date posted | lecture name | written notes | [video lecture](ht
 --- | ---|---|---|---|---
 17|10-20 | bivariate expectation and conditional distributions | [lecture 17](lns/lec17.pdf) | [video lec 17](https://youtu.be/NgEL-W-foM8) | 6.2|
 18|10-22 | conditional expectation and independence | [lecture 18](lns/lec18.pdf) | [video lec 18](https://youtu.be/AWz6Hifq1DY) | 6.3 (through Cond. Expect. Example 2)  |
+--- | ---|---|---|---|---
+19|10-27 | iterated expectation, mv normal, bivariate transformations | [lecture 19](lns/lec19.pdf) | [video lec 19](https://youtu.be/57wuKiU4MzY) | 6.3 (condtional expectation), 6.4, 7.2 (bivariate transformations) |
+20|10-29 | more bivariate transformations | [lecture 20](lns/lec20.pdf) | [video lec 20](https://youtu.be/lJKejjvW0No) | 7.2 (bivariate transformations) |
 
 
 ## quiz problems
@@ -70,5 +73,6 @@ date posted | name |  reading| assignment | corresponding lectures
 9-24 | SP 7 | Leemis 3.4, 4.1 - 4.3, 5.1-5.4 | ch3: 71, 81, 135, ch 4: 28, 39, 48, 54, ch 5: 1, 5, 7, 21, 43, 69| 12-14
 10-15 | SP 8 | Leemis 7,7.1,7.2 (univariate case only), Leemis 6,6.1 (up to conditional dists) | Leemis ch 7: 2,9,13,21,40,55,57,58,60,63, Leemis ch 6: 4, 5, 22, 24, 32, 35  | 15-16
 10-22 | SP 9 | Leemis 6,6.1,6.2,6.3 (through Ex. 6.42) | Leemis ch 6: 74, 78, 82, 17a, 20, 36, 37, 47, 48, 50, 54, 70 | 17-18
+10-29 | SP 10 | Leemis 6.3,6.4,7.1,7.2 | Leemis ch6: 60, 88, 95, Leemis ch7: 19, 22, 23, 28(a), 38, 49 | 19-20
 
 
