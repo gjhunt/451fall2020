@@ -43,6 +43,9 @@ lecture number | date posted | lecture name | written notes | [video lecture](ht
 --- | ---|---|---|---|---
 19|10-27 | iterated expectation, mv normal, bivariate transformations | [lecture 19](lns/lec19.pdf) | [video lec 19](https://youtu.be/57wuKiU4MzY) | 6.3 (condtional expectation), 6.4, 7.2 (bivariate transformations) |
 20|10-29 | more bivariate transformations | [lecture 20](lns/lec20.pdf) | [video lec 20](https://youtu.be/lJKejjvW0No) | 7.2 (bivariate transformations) |
+--- | ---|---|---|---|---
+21|11-03 | multivariate random variables | [lecture 21](lns/lec21.pdf) | [video lec 21](https://youtu.be/Fb17CJ-alBM) | 6.5 |
+22|11-05 | random samples and order statistics | [lecture 22](lns/lec22.pdf) | [video lec 22](https://youtu.be/MfPhXpKZeEY) | 7.2 (order stats) |
 
 
 ## quiz problems
@@ -75,5 +78,6 @@ date posted | name |  reading| assignment | corresponding lectures
 10-15 | SP 8 | Leemis 7,7.1,7.2 (univariate case only), Leemis 6,6.1 (up to conditional dists) | Leemis ch 7: 2,9,13,21,40,55,57,58,60,63, Leemis ch 6: 4, 5, 22, 24, 32, 35  | 15-16
 10-22 | SP 9 | Leemis 6,6.1,6.2,6.3 (through Ex. 6.42) | Leemis ch 6: 74, 78, 82, 17a, 20, 36, 37, 47, 48, 50, 54, 70 | 17-18
 10-29 | SP 10 | Leemis 6.3,6.4,7.1,7.2 | Leemis ch6: 60, 88, 95, Leemis ch7: 19, 22, 23, 28(a), 38, 49 | 19-20
+11-05 | SP 11 | Leemis 6.5, 7.2 | Leemis ch6: 148, 150, 152, 165, 168, 174, 175, 185, 195 | 21-22
 
 
