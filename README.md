@@ -46,6 +46,9 @@ lecture number | date posted | lecture name | written notes | [video lecture](ht
 --- | ---|---|---|---|---
 21|11-03 | multivariate random variables | [lecture 21](lns/lec21.pdf) | [video lec 21](https://youtu.be/Fb17CJ-alBM) | 6.5 |
 22|11-05 | random samples and order statistics | [lecture 22](lns/lec22.pdf) | [video lec 22](https://youtu.be/MfPhXpKZeEY) | 7.2 (order stats) |
+--- | ---|---|---|---|---
+23|11-10 | inequalities and convergence | [lecture 23](lns/lec23.pdf) | [video lec 23](https://youtu.be/G-d3aif_EjI) | 6.5 |
+24|11-12 | central limit theorem | [lecture 24](lns/lec24.pdf) | [video lec 24](https://youtu.be/I6Ngn4drDWo) | 7.2 (order stats) |
 
 
 ## quiz problems
